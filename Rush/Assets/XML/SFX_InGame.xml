@@ -1,0 +1,17 @@
+<SFX_SETUP>
+	<SFX name="SFX_Bouton_01" volume="1" />
+	<SFX name="SFX_Bouton_02" volume="1" />
+	<SFX name="SFX_Bouton_03" volume="1" />
+	<SFX name="SFX_Bouton_04" volume="1" />
+	<SFX name="SFX_Deplacement_01" volume="1" /> 
+	<SFX name="SFX_Deplacement_02" volume="1" /> 
+	<SFX name="SFX_Deplacement_03" volume="1" /> 
+	<SFX name="SFX_Deplacement_04" volume="1" /> 
+	<SFX name="SFX_Disparition" volume="1" />
+	<SFX name="SFX_JingleDefaite" volume="1" />  
+	<SFX name="SFX_JingleVictoire" volume="1" /> 
+	<SFX name="SFX_PlacementFleche" volume="1" /> 
+	<SFX name="SFX_SelecFleche" volume="1" /> 
+	<SFX name="SFX_SelecNiveau" volume="1" />
+  <SFX name="SFX_Teleportation" volume="1" />
+</SFX_SETUP>
